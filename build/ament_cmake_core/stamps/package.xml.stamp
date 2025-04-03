@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>ORB_SLAM3</name>
+  <version>0.1.0</version>
+  <description>ORB-SLAM3 ROS 2 package</description>
+
+  <maintainer email="sathiyarupini15@gmail.com">Sathya</maintainer>
+  <license>BSD</license>
+
+  <!-- Build dependencies (tools and libraries needed at compile time) -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>ament_cmake</build_depend>
+  <build_depend>ament_index_cpp</build_depend>
+  <build_depend>opencv4</build_depend>
+  <!-- Add more dependencies here if needed, e.g., pangolin, freenect, etc. -->
+
+  <!-- Execution dependencies (needed at runtime) -->
+  <exec_depend>ament_cmake</exec_depend>
+  <exec_depend>ament_index_cpp</exec_depend>
+  <exec_depend>opencv4</exec_depend>
+  <!-- Add more dependencies here if needed -->
+
+  <export>
+    <!-- Indicates this package uses ament_cmake as the build type -->
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

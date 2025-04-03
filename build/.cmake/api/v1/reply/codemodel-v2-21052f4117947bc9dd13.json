@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-4b8f189769e97cd7bae4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ORB_SLAM3",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ORB_SLAM3_LIB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ORB_SLAM3_LIB-Release-8ddcafd264eaa82b64a4.json",
+					"name" : "ORB_SLAM3_LIB",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_kinect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_kinect-Release-3a3aac621705a9fc8a06.json",
+					"name" : "rgbd_kinect",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+		"source" : "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

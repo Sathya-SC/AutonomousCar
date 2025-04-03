@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.1)
 project(ORB_SLAM3)
+cmake_policy(SET CMP0057 NEW)
+
 
 # ---------------------------------------------------------
 # Set the build type to Release
@@ -16,6 +18,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 # ---------------------------------------------------------
 find_package(OpenCV 4 REQUIRED)
 find_package(Pangolin REQUIRED)
+#find_package(ament_cmake REQUIRED)
 
 # ---------------------------------------------------------
 # Include directories
@@ -33,8 +36,8 @@ include_directories(
 # ---------------------------------------------------------
 # Collect all source files in the src/ directory.
 file(GLOB_RECURSE ORB_SLAM3_SOURCE_FILES
-    "${PROJECT_SOURCE_DIR}/src/*.cpp"
-    "${PROJECT_SOURCE_DIR}/src/*.cc"
+    "${PROJECT_SOURCE_DIR}/../../src/*.cpp"
+    "${PROJECT_SOURCE_DIR}/../../src/*.cc"
 )
 
 # Create a shared library called ORB_SLAM3_LIB from the collected sources.
@@ -56,7 +59,8 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 # Build the rgbd_kinect example (using libfreenect and pthread)
 # ---------------------------------------------------------
 # The source file is located at: <repo_root>/Examples/RGB-D/rgbd_kinect.cc
-add_executable(rgbd_kinect ${PROJECT_SOURCE_DIR}/Examples/RGB-D/rgbd_kinect.cc)
+add_executable(rgbd_kinect ${PROJECT_SOURCE_DIR}/rgbd_kinect.cc)
+
 
 target_link_libraries(rgbd_kinect
     ORB_SLAM3_LIB
@@ -82,6 +86,6 @@ install(FILES ${PROJECT_SOURCE_DIR}/Examples/RGB-D/KinectV1.yaml
 # ---------------------------------------------------------
 # For ROS2 integration, register this package with ament
 # ---------------------------------------------------------
-ament_package()
+#ament_package()
 
 

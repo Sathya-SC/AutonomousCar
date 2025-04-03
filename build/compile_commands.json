@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Atlas.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Atlas.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Atlas.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/KannalaBrandt8.cpp.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/KannalaBrandt8.cpp",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/KannalaBrandt8.cpp"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/Pinhole.cpp.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/Pinhole.cpp",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/CameraModels/Pinhole.cpp"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Config.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Config.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Config.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Converter.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Converter.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Converter.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Frame.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Frame.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Frame.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/FrameDrawer.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/FrameDrawer.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/FrameDrawer.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/G2oTypes.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/G2oTypes.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/G2oTypes.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/GeometricTools.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/GeometricTools.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/GeometricTools.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/ImuTypes.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/ImuTypes.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/ImuTypes.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrame.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrame.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrame.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrameDatabase.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrameDatabase.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/KeyFrameDatabase.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/LocalMapping.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/LocalMapping.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/LocalMapping.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/LoopClosing.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/LoopClosing.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/LoopClosing.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/MLPnPsolver.cpp.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/MLPnPsolver.cpp",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/MLPnPsolver.cpp"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Map.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Map.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Map.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/MapDrawer.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/MapDrawer.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/MapDrawer.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/MapPoint.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/MapPoint.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/MapPoint.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBextractor.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBextractor.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBextractor.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBmatcher.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBmatcher.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/ORBmatcher.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/OptimizableTypes.cpp.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/OptimizableTypes.cpp",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/OptimizableTypes.cpp"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Optimizer.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Optimizer.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Optimizer.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Settings.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Settings.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Settings.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Sim3Solver.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Sim3Solver.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Sim3Solver.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/System.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/System.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/System.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Tracking.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Tracking.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Tracking.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/TwoViewReconstruction.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/TwoViewReconstruction.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/TwoViewReconstruction.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13 -DORB_SLAM3_LIB_EXPORTS -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -fPIC -o CMakeFiles/ORB_SLAM3_LIB.dir/home/sathya/ros2_ws/src/ORB_SLAM3/src/Viewer.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/src/Viewer.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/src/Viewer.cc"
+},
+{
+  "directory": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/build",
+  "command": "/usr/bin/g++-13  -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -O3 -DNDEBUG -o CMakeFiles/rgbd_kinect.dir/rgbd_kinect.cc.o -c /home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/rgbd_kinect.cc",
+  "file": "/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/rgbd_kinect.cc"
+}
+]

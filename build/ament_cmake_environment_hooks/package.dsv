@@ -1,0 +1,4 @@
+source;share/ORB_SLAM3/local_setup.bash
+source;share/ORB_SLAM3/local_setup.dsv
+source;share/ORB_SLAM3/local_setup.sh
+source;share/ORB_SLAM3/local_setup.zsh
