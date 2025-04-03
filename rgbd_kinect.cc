@@ -9,7 +9,7 @@
 #include <opencv2/photo/photo.hpp>    // For fastNlMeansDenoisingColored
 #include <libfreenect.h>
 #include "System.h"  // ORB-SLAM3 main header
-
+#include "Thirdparty/DBoW2/DBoW2/BowVector.h"
 
 using namespace std;
 using namespace cv;

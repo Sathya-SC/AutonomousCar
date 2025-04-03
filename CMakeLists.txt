@@ -11,7 +11,7 @@ set(CMAKE_BUILD_TYPE Release)
 # ---------------------------------------------------------
 # Use C++11 standard (ORB-SLAM3 requires at least C++11)
 # ---------------------------------------------------------
-set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17")
 
 # ---------------------------------------------------------
 # Find required packages: OpenCV and Pangolin
@@ -24,11 +24,10 @@ find_package(Pangolin REQUIRED)
 # Include directories
 # ---------------------------------------------------------
 include_directories(
-    ${PROJECT_SOURCE_DIR}                             # Root of the project
-    ${PROJECT_SOURCE_DIR}/include                     # Project headers
-    ${OpenCV_INCLUDE_DIRS}                            # OpenCV includes
-    ${Pangolin_INCLUDE_DIRS}                          # Pangolin includes
-    ${PROJECT_SOURCE_DIR}/../ORB_SLAM3/include
+    ${PROJECT_SOURCE_DIR}/../../Thirdparty/DBoW2
+    ${PROJECT_SOURCE_DIR}/../../include
+    ${OpenCV_INCLUDE_DIRS}
+    ${Pangolin_INCLUDE_DIRS}
 )
 
 # ---------------------------------------------------------

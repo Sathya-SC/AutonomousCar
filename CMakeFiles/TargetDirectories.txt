@@ -1,0 +1,8 @@
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/ORB_SLAM3_LIB.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/rgbd_kinect.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/edit_cache.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/rebuild_cache.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/list_install_components.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/install.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/install/local.dir
+/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/CMakeFiles/install/strip.dir

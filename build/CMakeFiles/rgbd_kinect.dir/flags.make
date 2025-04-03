@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++-13
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/include -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../ORB_SLAM3/include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3
+CXX_INCLUDES = -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../../Thirdparty/DBoW2 -I/home/sathya/ros2_ws/src/ORB_SLAM3/Examples/RGB-D/../../include -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3
 
-CXX_FLAGS =  -std=c++11 -O3 -DNDEBUG
+CXX_FLAGS =  -std=c++17 -O3 -DNDEBUG
 

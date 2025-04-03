@@ -5,7 +5,7 @@
         "label": "C/C++: g++ build active file",
         "command": "/usr/bin/g++",
         "args": [
-          "-std=c++11",
+          "-std=c++17",
           "-I/usr/include/opencv4",   // <-- Add this for OpenCV
           "-I/usr/include",           // (if needed)
           "${file}",                  // your .cpp file
