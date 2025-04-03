@@ -1,0 +1,48 @@
+%YAML:1.0
+File.version: "1.0"
+Camera.type: "PinHole"
+
+# Calibrated camera intrinsics from your calibration process:
+Camera1.fx: 684.7237772385379
+Camera1.fy: 656.145955251574
+Camera1.cx: 253.5354555628374
+Camera1.cy: 233.9164868393964
+
+# Calibrated distortion coefficients (k1, k2, p1, p2, k3)
+Camera1.k1: 2.015422457437619
+Camera1.k2: -15.86453737660333
+Camera1.p1: 0.0
+Camera1.p2: 0.0
+Camera1.k3: 50.10615920280089
+
+Camera.width: 640
+Camera.height: 480
+Camera.fps: 30
+Camera.RGB: 1
+
+Stereo.ThDepth: 40.0
+Stereo.b: 0.07732
+
+# IMPORTANT: The depth factor. Based on your measurement (2047 raw value at 0.30 m),
+# the computed factor is:
+#    2047 / 0.30 ≈ 6823.33
+RGBD.DepthMapFactor: 6823.33
+
+ORBextractor.nFeatures: 1000
+ORBextractor.scaleFactor: 1.2
+ORBextractor.nLevels: 8
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+
+Viewer.KeyFrameSize: 0.05
+Viewer.KeyFrameLineWidth: 1.0
+Viewer.GraphLineWidth: 0.9
+Viewer.PointSize: 2.0
+Viewer.CameraSize: 0.08
+Viewer.CameraLineWidth: 3.0
+Viewer.ViewpointX: 0.0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
+Viewer.ViewpointF: 500.0
+
+
